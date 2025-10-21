@@ -1,0 +1,13 @@
+# Archivos generados por Cargo
+/target/
+
+# Archivos de bloqueo de Cargo (opcional para bibliotecas, necesario para binarios)
+# Cargo.lock
+
+# Archivos de respaldo
+**/*.rs.bk
+
+# Archivos de sistema
+.DS_Store
+*~
+
